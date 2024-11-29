@@ -1,0 +1,28 @@
+{
+    "user":[
+        {
+            "id":1,
+            "userName":"Vidadi Ali",
+            "gmail":"vidadiali@gmail.com",
+            "phone":"0504587493"
+        },
+        {
+            "id":2,
+            "userName":"Vidadi Ali",
+            "gmail":"vidadiali@gmail.com",
+            "phone":"0504587493"
+        },
+        {
+            "id":3,
+            "userName":"Vidadi Ali",
+            "gmail":"vidadiali@gmail.com",
+            "phone":"0504587493"
+        },
+        {
+            "id":4,
+            "userName":"Vidadi Ali",
+            "gmail":"vidadiali@gmail.com",
+            "phone":"0504587493"
+        }
+    ]
+}
